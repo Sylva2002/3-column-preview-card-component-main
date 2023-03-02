@@ -46,3 +46,4 @@ Users should be able to:
 
 - GitHub - [Sylva2002](https://github.com/Sylva2002)
 - Frontend Mentor - [@Sylva2002](https://www.frontendmentor.io/profile/Sylva2002)
+- Twitter - [Christel SNVO](https://twitter.com/ChristelSnvo)
